@@ -70,14 +70,4 @@ Repository ini berisi contoh sederhana server-client untuk tujuan pembelajaran (
 
 ---
 
-## Lisensi
-
-Tuliskan lisensi proyek di sini (mis. MIT) atau atur sendiri sesuai kebijakan Anda.
-
----
-
-Jika Anda ingin, aku bisa:
-
-* Menambahkan contoh output/skrip pengujian lokal.
-* Membuat checklist pengujian (lab) atau template izin tertulis untuk pengujian keamanan.
-* Membantu menulis `CONTRIBUTING.md` atau `LICENSE`.
+![RAT-Sederhana](ss.png)
